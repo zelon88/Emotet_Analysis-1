@@ -1,0 +1,5 @@
+HKCU\Software\Microsoft\Windows\CurrentVersion\Run 
+ STRING httpapi 
+ VALUE "C:\Users\Tester\AppData\Local\perfhost\httpapi.exe"
+
+"msscntrs.exe" (Access type: "CREATE"; Path: "HKLM\SYSTEM\CURRENTCONTROLSET\SERVICES\TCPIP\PARAMETERS") 

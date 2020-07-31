@@ -1,0 +1,7 @@
+This is a placeholder file for the driver that was actually used.
+
+The network adapter used was an Archer T2UH V2 USB dongle.
+
+You can download the driver for this device from the official TP-Link website at:
+https://www.tp-link.com/us/support/download/archer-t2uh/
+

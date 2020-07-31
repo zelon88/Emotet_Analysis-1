@@ -1,0 +1,29 @@
+
+
+*******Initializing Message Log:TSSysprep.dll 07/30/20 12:38:29
+*******Version:Major=6, Minor=1, Build=7601, PlatForm=2, CSDVer=Service Pack 1, Free
+
+sysprep.cpp(309)Entering RCMSysPrepRestore
+sysprep.cpp(314)ERROR: ResetTSPublicPrivateKeys() FAILED: 2
+sysprep.cpp(316)Leaving RCMSysPrepRestore
+logmsg.cpp(38)********Terminating Log.
+
+
+*******Initializing Message Log:TSSysprep.dll 07/30/20 12:38:29
+*******Version:Major=6, Minor=1, Build=7601, PlatForm=2, CSDVer=Service Pack 1, Free
+
+sysprep.cpp(283)Entering LSMSysPrepRestore
+sysprep.cpp(511)WARNING: RestoreTSCustomSercurity - NameSIDList.LoadAndDelete FAILED.
+sysprep.cpp(512)If no Names/SIDs were saved during LSMSysPrepBackup, this is NOT an error. Otherwise, it IS an error, saved names and SIDs were NOT restored.
+sysprep.cpp(513)Please verify that no Names/SIDs were saved during backup
+sysprep.cpp(288)WARNING: RestoreTSCustomSercurity() FAILED: 2. To see if this is an error, please see message(s) above.
+sysprep.cpp(291)Leaving LSMSysPrepRestore
+logmsg.cpp(38)********Terminating Log.
+
+
+*******Initializing Message Log:TSSysprep.dll 07/30/20 12:38:30
+*******Version:Major=6, Minor=1, Build=7601, PlatForm=2, CSDVer=Service Pack 1, Free
+
+sysprep.cpp(330)Entering RdpSysPrepRestore
+sysprep.cpp(358)Leaving RdpSysPrepRestore
+logmsg.cpp(38)********Terminating Log.

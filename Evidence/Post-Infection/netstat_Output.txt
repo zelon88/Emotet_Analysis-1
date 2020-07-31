@@ -1,0 +1,122 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    0.0.0.0:135            Sandbox:0              LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    0.0.0.0:445            Sandbox:0              LISTENING
+ Can not obtain ownership information
+  TCP    0.0.0.0:5357           Sandbox:0              LISTENING
+ Can not obtain ownership information
+  TCP    0.0.0.0:49152          Sandbox:0              LISTENING
+ [wininit.exe]
+  TCP    0.0.0.0:49153          Sandbox:0              LISTENING
+  eventlog
+ [svchost.exe]
+  TCP    0.0.0.0:49154          Sandbox:0              LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    0.0.0.0:49155          Sandbox:0              LISTENING
+ [services.exe]
+  TCP    0.0.0.0:49156          Sandbox:0              LISTENING
+ [lsass.exe]
+  TCP    192.168.43.121:139     Sandbox:0              LISTENING
+ Can not obtain ownership information
+  TCP    192.168.43.121:49170   47.146.117.214:http    CLOSE_WAIT
+ [httpapi.exe]
+  TCP    [::]:135               Sandbox:0              LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    [::]:445               Sandbox:0              LISTENING
+ Can not obtain ownership information
+  TCP    [::]:5357              Sandbox:0              LISTENING
+ Can not obtain ownership information
+  TCP    [::]:49152             Sandbox:0              LISTENING
+ [wininit.exe]
+  TCP    [::]:49153             Sandbox:0              LISTENING
+  eventlog
+ [svchost.exe]
+  TCP    [::]:49154             Sandbox:0              LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    [::]:49155             Sandbox:0              LISTENING
+ [services.exe]
+  TCP    [::]:49156             Sandbox:0              LISTENING
+ [lsass.exe]
+  UDP    0.0.0.0:3702           *:*                    
+  EventSystem
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+  EventSystem
+ [svchost.exe]
+  UDP    0.0.0.0:5355           *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:63141          *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:65325          *:*                    
+  EventSystem
+ [svchost.exe]
+  UDP    0.0.0.0:65327          *:*                    
+  EventSystem
+ [svchost.exe]
+  UDP    127.0.0.1:1900         *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:63713        *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.43.121:137     *:*                    
+ Can not obtain ownership information
+  UDP    192.168.43.121:138     *:*                    
+ Can not obtain ownership information
+  UDP    192.168.43.121:1900    *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.43.121:63712   *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+  EventSystem
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+  EventSystem
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:5355              *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:63142             *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:65326             *:*                    
+  EventSystem
+ [svchost.exe]
+  UDP    [::]:65328             *:*                    
+  EventSystem
+ [svchost.exe]
+  UDP    [::1]:1900             *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::1]:63711            *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::fdc1:a073:f9eb:ef98%11]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::fdc1:a073:f9eb:ef98%11]:63710  *:*                    
+  SSDPSRV
+ [svchost.exe]

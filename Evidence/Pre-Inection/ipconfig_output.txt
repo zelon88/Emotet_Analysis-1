@@ -1,0 +1,19 @@
+
+Windows IP Configuration
+
+
+Wireless LAN adapter Wireless Network Connection:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : 2600:1000:b11f:3d53:fdc1:a073:f9eb:ef98
+   Temporary IPv6 Address. . . . . . : 2600:1000:b11f:3d53:d959:8f3f:c31d:b7df
+   Link-local IPv6 Address . . . . . : fe80::fdc1:a073:f9eb:ef98%11
+   IPv4 Address. . . . . . . . . . . : 192.168.43.121
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::48eb:62ff:fe34:d78c%11
+                                       192.168.43.1
+
+Tunnel adapter isatap.{2A7F33C7-607F-431B-8C41-7270CA9A0C4A}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 

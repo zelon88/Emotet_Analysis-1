@@ -1,0 +1,10 @@
+C:\Users\Tester\AppData\Local\perfhost
+C:\Users\Tester\AppData\Local\perfhost\qdv7d0.exe
+C:\Users\Tester\AppData\Local\perfhost\httpapi.exe
+
+C:\Windows\SysWOW64\txfw32\msscntrs.exe
+C:\Windows\DtcInstall.txt
+C:\Windows\TSSysprep.txt
+
+C:\Users\Tester\AppData\Roaming\Microsoft\Vault
+C:\Users\Tester\AppData\Roaming\Microsoft\Crypto

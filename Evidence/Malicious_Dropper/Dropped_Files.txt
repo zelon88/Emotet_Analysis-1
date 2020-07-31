@@ -1,0 +1,12 @@
+"1573412" bytes of overlay at offset "1320" believed to contain "415.exe" which is created in memory and run.
+
+C:\Windows\System32\diskperf\dxtmsft.exe
+
+"WINWORD.EXE" created file "%TEMP%\~DF5607A86EB53977F5.TMP"
+"WINWORD.EXE" created file "%TEMP%\~DFEAE13EF5007DE5B2.TMP"
+"WINWORD.EXE" created file "%TEMP%\VBE\MSForms.exd"
+"WINWORD.EXE" created file "%TEMP%\~DFC2429B946182197E.TMP"
+"WINWORD.EXE" created file "%TEMP%\~DF97431560A8B20FFC.TMP"
+"WINWORD.EXE" created file "%TEMP%\~DFFBA07FDC494FC223.TMP"
+"WINWORD.EXE" created file "%TEMP%\~DFA52B007CE8A82EE9.TMP"
+"WINWORD.EXE" created file "%TEMP%\~DF1B7B3A23CAAAF533.TMP" 

@@ -1,0 +1,14 @@
+
+1. Meterpreter Payload Detection by DamonMohammadbagher - https://github.com/DamonMohammadbagher/Meterpreter_Payload_Detection
+
+2. x64dbg - https://github.com/x64dbg/x64dbg
+
+3. npcap-0.9995 - https://nmap.org/npcap/
+
+4. ProcessExplorer - https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
+
+5. ProcessMonitor - https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
+
+6. Wireshark-win64-3.2.4 - https://www.wireshark.org/
+
+7. Online Hybrid-Analysis Tools - https://www.hybrid-analysis.com/
